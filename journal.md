@@ -1,13 +1,13 @@
-by: @karnx \
-repo:https://github.com/Fastestkyo/ED3D \
-total:0hrs 
-idea: Basically a 3dprinter with hologram transparent screen thing that shows what youre printing
+by: @karnx  
+repo: [https://github.com/Fastestkyo/ED3D](https://github.com/Fastestkyo/ED3D)  
+total: 5.5 hrs  
+idea: Basically a 3D printer with a holographic transparent screen that shows what you're printing
 ---
 
-## DAY0: feb 13 (30mins)
--made idea
+## DAY 0: Feb 13 (30 mins)
+- Conceived the idea
 
-## DAY1: feb15 (5hrs)
--research 
--updated bom
--understood 3dprinter mechanics
+## DAY 1: Feb 15 (5 hrs)
+- Conducted research
+- Updated Bill of Materials (BOM)
+- Gained an understanding of 3D printer mechanics
