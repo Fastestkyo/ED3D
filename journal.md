@@ -21,6 +21,11 @@
   - Updated the Bill of Materials (BOM) to include components suitable for integrating holographic visualization.
   - Gained a comprehensive understanding of 3D printer mechanics and the feasibility of incorporating a holographic screen.
 
+### Day 2: February 16-18, 2025 (11 hours)
+- **Research and Development:**  
+  - Reasearch on parts and stuff.
+  - Learned to make 3d models
+
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
