@@ -36,6 +36,7 @@
 ### Days 17- 22: March 2 - 6 (5 hours)
 - Added support to heatbed
 - research
+  
 ![image](https://github.com/user-attachments/assets/a56423a7-f586-4adb-a9e5-d7c679b7e917)
 
 ---
