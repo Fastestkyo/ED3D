@@ -50,6 +50,9 @@
 ### Days 38 - 40, March 20 - 23 (26.5 hours)
 -finished toolhead
 
+### Days 41 - 46, March 23 - 28 (26.5 hours)
+-finishing touches
+
 ---
 
 
