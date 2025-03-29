@@ -5,7 +5,7 @@
 **Total Time Spent:** 20.5 hours
 
 **Project Idea:**  
-*Develop a 3D printer equipped with a holographic transparent screen that displays the printing process in real-time.*
+*Develop a 3D printer equipped with a transparent screen that displays the thing that is being printed.*
 
 ---
 
@@ -50,7 +50,7 @@
 ### Days 38 - 40, March 20 - 23 (26.5 hours)
 -finished toolhead
 
-### Days 41 - 46, March 23 - 28 (26.5 hours)
+### Days 41 - 47, March 23 - 29 (26.5 hours)
 -finishing touches
 
 ---
