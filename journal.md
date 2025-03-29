@@ -51,7 +51,7 @@
 -finished toolhead
 
 ### Days 41 - 47, March 23 - 29 (26.5 hours)
--finishing touches
+-finishing touches\
 -submitted printer
 
 ---
