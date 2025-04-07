@@ -6,18 +6,7 @@
 
 ---
 
-## Project Overview
 
-**Concept:**  
-Develop a custom-built 3D printer integrated with a transparent or holographic display that visualizes the object being printed in real time. The goal is to create an immersive experience by combining traditional 3D printing with augmented visualization for better feedback, usability, and aesthetic appeal.
-
-**Objectives:**
-- Fabricate a modular, sturdy 3D printer frame.
-- Integrate a transparent display for live visualization of print progress.
-- Develop a custom toolhead and motion system.
-- Continuously iterate based on performance, stability, and visual fidelity.
-
----
 
 ## Progress Log
 
