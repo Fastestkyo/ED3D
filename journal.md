@@ -62,10 +62,18 @@
 ### Days 38–40: March 20–23, 2025 (26.5 hours)
 - **Toolhead Completion:**
   - Finalized toolhead mechanics and mounted extruder assembly.
+ 
+    ![image](https://github.com/user-attachments/assets/66bb0a5b-2c68-43ee-8bd2-acfb032acdd1)
+
 
 ### Days 41–47: March 23–29, 2025 (26.5 hours)
 - **Final Touches & Submission:**
   - Submitted the finished ED3D printer for review.
+ 
+    
+    ![PRINTER](https://github.com/user-attachments/assets/f3fd9fda-ad09-4d44-9c03-00bf5b19854b)
+    ![PRINTER-TOP](https://github.com/user-attachments/assets/26eac7e6-4b60-45c7-854c-48d358da1f2e)
+
 
 ---
 
