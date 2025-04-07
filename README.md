@@ -7,7 +7,7 @@
 ## Hardware
 
 - **Display:**  
-  Repurposing an old LG LCD monitor by removing its backlight and polarizing film to create a see-through screen effect. This enables the overlay of a virtual 3D model aligned with the physical print.  
+  Repurposing an old LG LCD monitor by removing its lcd thing and polarizing film to create a see-through screen effect. This enables the overlay of a virtual 3D model aligned with the physical print.  
   *Reference:* [YouTube Guide](https://www.youtube.com/watch?v=IhldXT7yxXo)
 
 - **Controller + Computer:**  
