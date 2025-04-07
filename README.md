@@ -43,8 +43,8 @@ Goal: Real-time display of the currently printing 3D model using `three.js` or a
 
 ## 📐 Project Files
 
-- **CAD (Fusion 360):** [View Model](https://a360.co/3Rony1E)
-- **Bill of Materials:** [Google Sheet](https://docs.google.com/spreadsheets/d/178BAEs7F_joBAkZX4WfwpVy1w5ChVrZ6aIprLqq8BNg/edit?usp=sharing)
-- **Logs & Updates:** [Hack Club Infill Logs](https://infill.hackclub.com/printers/ed3d/)
+- [CAD](https://a360.co/3Rony1E)
+- [BOM](https://docs.google.com/spreadsheets/d/178BAEs7F_joBAkZX4WfwpVy1w5ChVrZ6aIprLqq8BNg/edit?usp=sharing)
+- [LOG](https://infill.hackclub.com/printers/ed3d/)
 
 ---
