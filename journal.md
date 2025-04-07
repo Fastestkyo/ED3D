@@ -47,8 +47,8 @@
 
 ### Days 23–30: March 7–13, 2025 (30 hours)
 - **Z-Axis Finalization & XY Initiation:**
-  - Completed Z-axis mechanics and calibration.
-  - Began building the XY axis using belt-driven motion systems.
+  - Completed Z-axis mechanics and calibration, decided on 1 linear rail, 1 lead screw, 2 linear shafts.
+  - Began building the XY axis using belt-driven motion systems. Corexy belt routing from reprap website.
  
 ![COREXY BELT ROUTING](https://github.com/user-attachments/assets/65d4a6e9-30a5-4cf5-abff-ac4c4e845f0b)
 
@@ -57,7 +57,7 @@
 ### Days 31–37: March 13–20, 2025 (23 hours)
 - **XY Axis & Toolhead Development:**
   - Completed XY axis assembly.
-  - Initiated design and construction of the toolhead.
+  - Initiated design and construction of the toolhead. Using 2 4010 axial fans and 1 4010 blower for cooling and v6 e3d hotend clone. Im also going to be using a bl sensor.
 
 ### Days 38–40: March 20–23, 2025 (26.5 hours)
 - **Toolhead Completion:**
@@ -65,7 +65,6 @@
 
 ### Days 41–47: March 23–29, 2025 (26.5 hours)
 - **Final Touches & Submission:**
-  - Completed hardware tuning, cable management, and structural reinforcements.
   - Submitted the finished ED3D printer for review.
 
 ---
