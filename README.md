@@ -29,7 +29,7 @@ http://<raspberrypi-ip>/printer/objects/query?print_stats
 This provides details on the current print, including the `filename` of the G-code in progress.
 
 You can access this file at:
-/home/pi/print_data/gcodes/<filename>.gcode
+/home/pi/print_data/gcodes/xyz.gcode
 
 Use this path to visualize the G-code.
 
