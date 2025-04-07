@@ -21,7 +21,7 @@
 - **firmware:** [Klipper](https://www.klipper3d.org/)
 - **web ui:** [Mainsail](https://docs.mainsail.xyz/)
 
-### TITLE
+### TITLEHERE
 
 Klipper exposes a web API endpoint(moonraker):
 http://<raspberrypi-ip>/printer/objects/query?print_stats
@@ -41,7 +41,7 @@ Goal: Real-time display of the currently printing 3D model using `three.js` or a
 
 ---
 
-## 📐 Project Files
+##  Project Files
 
 - [CAD](https://a360.co/3Rony1E)
 - [BOM](https://docs.google.com/spreadsheets/d/178BAEs7F_joBAkZX4WfwpVy1w5ChVrZ6aIprLqq8BNg/edit?usp=sharing)
