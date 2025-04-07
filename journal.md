@@ -29,6 +29,9 @@
 - **Hardware Assembly:**
   - Finalized the BOM.
   - Cadded the printer frame using welded galvanized square steel tubing.
+ 
+    ![PRINTER-FRAME](https://github.com/user-attachments/assets/fef93311-ddb1-49f1-8a58-a70679d587c3)
+
 
 ### Days 6–16: February 21–March 2, 2025 (24 hours)
 - **Z-Axis Development:**
@@ -59,6 +62,8 @@
   - Completed XY axis assembly.
   - Initiated design and construction of the toolhead. Using 2 4010 axial fans and 1 4010 blower for cooling and v6 e3d hotend clone. Im also going to be using a bl sensor.
 
+  ![xy-assembly](https://github.com/user-attachments/assets/fa92bf7b-fd68-4b7d-9ae4-94b5f682391a)
+  
 ### Days 38–40: March 20–23, 2025 (26.5 hours)
 - **Toolhead Completion:**
   - Finalized toolhead mechanics and mounted extruder assembly.
