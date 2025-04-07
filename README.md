@@ -14,7 +14,7 @@ Using skr mini e3v3 and rpi4, with klipper.
 
 Using mainsail + klipper.
 
-So after researching when you open http://<raspberrypi-ip>/printer/objects/query?print_stats
+So after researching when you open http://<raspberrypi-ip>/printer/objects/query?print_stats (moonraker api)
 There is a filename which contains the file currently printing. So if we know the current printing file we can take it out of /gcodes. We can take the gcode file and display it using three.js or gcode visualizers.
 Im pretty sure that there is a home/pi/print_data/gcode.
 
