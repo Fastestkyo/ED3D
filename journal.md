@@ -1,3 +1,24 @@
+# ED3D Project Journal
+
+**Author:** [@karnx](https://github.com/Fastestkyo)  
+**Repository:** [https://github.com/Fastestkyo/ED3D](https://github.com/Fastestkyo/ED3D)  
+**Total Time Spent:** 20.5 hours (as of last update)
+
+---
+
+## Project Overview
+
+**Concept:**  
+Develop a custom-built 3D printer integrated with a transparent or holographic display that visualizes the object being printed in real time. The goal is to create an immersive experience by combining traditional 3D printing with augmented visualization for better feedback, usability, and aesthetic appeal.
+
+**Objectives:**
+- Fabricate a modular, sturdy 3D printer frame.
+- Integrate a transparent display for live visualization of print progress.
+- Develop a custom toolhead and motion system.
+- Continuously iterate based on performance, stability, and visual fidelity.
+
+---
+
 ## Progress Log
 
 ### Day 0: February 13, 2025 (0.5 hours)
@@ -56,3 +77,6 @@
   - Completed hardware tuning, cable management, and structural reinforcements.
   - Submitted the finished ED3D printer for review.
 
+---
+
+*Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
