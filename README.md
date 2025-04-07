@@ -17,6 +17,7 @@ Using mainsail + klipper.
 So after researching when you open http://<raspberrypi-ip>/printer/objects/query?print_stats
 There is a filename which contains the file currently printing. So if we know the current printing file we can take it out of /gcodes. We can take the gcode file and display it using three.js or gcode visualizers.
 Im pretty sure that there is a home/pi/print_data/gcode.
+
 ---
 CAD:https://a360.co/3Rony1E \
 BOM:https://docs.google.com/spreadsheets/d/178BAEs7F_joBAkZX4WfwpVy1w5ChVrZ6aIprLqq8BNg/edit?usp=sharing \
