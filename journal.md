@@ -111,6 +111,10 @@
 
 ### Day 52: May 30, 2025
 - got the electronics to work! tft 3.5 (on touchscreen) + rpi4 + skr mini e3v3 + klipper
+![image](https://github.com/user-attachments/assets/80aae668-46aa-48a6-8715-a0b2b0875c45)
+![image](https://github.com/user-attachments/assets/eb6e7410-f7bb-456d-872d-e9021db3ab2f)
+
+
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
