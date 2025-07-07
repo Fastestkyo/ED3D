@@ -117,6 +117,10 @@
 ### Day 53 : June 9, 2025
 - bruh the parts are taking so long to comeeeeeeeeeee
 
+### Day 54: July 7, 2025
+- all parts are here, halfway done with the z axis. the z axis is taking too long.
+![image](https://github.com/user-attachments/assets/8ec97fe5-b3ff-461c-9ed4-402016f103de)
+
 ---
 
 *Note: This journal will be updated regularly to document ongoing progress and developments in the ED3D project.*
