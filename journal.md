@@ -119,7 +119,6 @@
 
 ### Day 54: July 7, 2025
 - all parts are here, halfway done with the z axis. the z axis is taking too long.
-![image](https://github.com/user-attachments/assets/8ec97fe5-b3ff-461c-9ed4-402016f103de)
 
 ---
 
